@@ -1,0 +1,21 @@
+.container {
+    text-align: center;
+    color: red;
+    margin: 100;
+}
+
+#myCarousel {
+    background-color: red;
+    
+}
+
+#myCarousel img {
+    height: 300px;
+    margin-top: 35px;
+}
+
+
+marqueeStyle{
+   
+    font-size: 100px;
+}
